@@ -292,7 +292,7 @@ p {
   grid-column: 2 / span 2;
 }
 
-#article .meta{
+#article .meta {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -301,7 +301,7 @@ p {
   border-radius: 5px;
 }
 
-#article .meta .category{
+#article .meta .category {
   margin-top: 0.4rem;
 }
 
@@ -321,12 +321,13 @@ p {
 #footer .container input[type="email"] {
   margin: 0.5rem 0;
   width: 90%;
+  color: #000;
 }
 #footer .container input[type="submit"] {
   width: 90%;
 }
 
-.list li{
+.list li {
   padding: 0.3rem;
   border-bottom: #777 dotted 1px;
 }
